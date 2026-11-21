@@ -1,0 +1,18 @@
+# CRSP data: licensed by WRDS, not redistributed
+code/data/
+
+# personal notes and old versions, not submitted
+not_submitted/
+
+# generated files
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.ckpt
+*.aux
+*.log
+*.out
+
+# macOS
+.DS_Store
+Icon?

@@ -1,0 +1,16 @@
+,S0,S1,S2
+Pre-tax return,8.32,8.34,8.27
+Index return,8.22,8.22,8.22
+"After-tax return, no liquidation",8.41,9.67,9.5
+"After-tax return, liquidation",7.6,8.74,8.62
+"Tax alpha, no liquidation",0.0,1.25,1.09
+"Tax alpha, liquidation",0.0,1.14,1.02
+"Tracking error, realized",0.3,0.43,0.38
+"Tracking error, ex-ante (mean)",,0.23,0.17
+Sales turnover per year,1.07,11.26,11.03
+Short-term losses realized (% of initial),0.88,101.98,99.22
+Long-term losses realized (% of initial),40.13,39.54,40.78
+Trading cost (bp per year),0.24,1.28,1.26
+Average number of holdings,501.92,552.97,563.91
+Final NAV ($M),8.13,10.96,10.54
+Rebalances with gap < 1 bp (%),,99.67,100.0

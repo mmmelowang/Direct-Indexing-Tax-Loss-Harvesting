@@ -1,0 +1,4 @@
+,S1,S1 matched,S2,S2 minus S1 matched
+te_realized,0.398,0.313,0.277,-0.036
+tax_alpha_liq,0.959,0.835,0.747,-0.089
+tax_alpha_noliq,1.884,1.685,1.385,-0.3
